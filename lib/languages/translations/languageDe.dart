@@ -256,11 +256,11 @@ class LanguageDe extends Languages {
 
   // Music Player
   @override
-  String get labelPlayerSettings => "PLayereinstellungen";
+  String get labelPlayerSettings => "Playereinstellungen";
   @override
   String get labelExpandArtwork => "Cover erweitern";
   @override
-  String get labelArtworkRoundedCorners => "Cover mit Abgerundete Kanten";
+  String get labelArtworkRoundedCorners => "Cover mit abgerundete Kanten";
   @override
   String get labelPlayingFrom => "Wiedergeben von";
   @override
@@ -363,27 +363,27 @@ class LanguageDe extends Languages {
 
   // Other Translations
   @override
-  String get labelNoFavoriteVideos => 'No Favorite Videos';
+  String get labelNoFavoriteVideos => 'Keine Video Favoriten';
   @override
-  String get labelNoFavoriteVideosDescription => 'Search for videos and save them as favorites. They will appear here';
+  String get labelNoFavoriteVideosDescription => 'Suche Videos und speichere sie als Favoriten. Diese erscheinen hier.';
   @override
-  String get labelNoSubscriptions => 'No Subscriptions';
+  String get labelNoSubscriptions => 'Keine Abonnements.';
   @override
-  String get labelNoSubscriptionsDescription => 'Tap the button above to show suggested Channels!';
+  String get labelNoSubscriptionsDescription => 'Tippe auf obige Schaltfläche um vorgeschlagene Kanäle anzuzeigen!';
   @override
-  String get labelNoPlaylists => 'No Playlists';
+  String get labelNoPlaylists => 'Keine Playlists';
   @override
-  String get labelNoPlaylistsDescription => 'Search for videos or playlists and save them. They will appear here';
+  String get labelNoPlaylistsDescription => 'Suche Videos oder Playlists und speichere sie. Diese erscheinen hier';
   @override
-  String get labelSearch => 'Search';
+  String get labelSearch => 'Suche';
   @override
-  String get labelSubscriptions => 'Subscriptions';
+  String get labelSubscriptions => 'Abonnements';
   @override
-  String get labelNoDownloadsCanceled => 'No Downloads Canceled';
+  String get labelNoDownloadsCanceled => 'Keine abgebrochenen Downloads';
   @override
   String get labelNoDownloadsCanceledDescription => 'Good news! But if you cancel or something goes wrong with the download, you can check from here';
   @override
-  String get labelNoDownloadsYet => 'No Downloads Yet';
+  String get labelNoDownloadsYet => 'Keine Downloads bisher';
   @override
   String get labelNoDownloadsYetDescription => 'Go home, search for something to download or wait for the queue!';
   @override
@@ -457,21 +457,21 @@ class LanguageDe extends Languages {
   @override
   String get labelContinue => 'Continue';
   @override
-  String get labelAllowStorageRead => 'Allow Storage Read';
+  String get labelAllowStorageRead => 'Speicherzugriff erlauben';
   @override
   String get labelSelectYourPreferred => 'Select your preferred';
   @override
-  String get labelLight => 'Light';
+  String get labelLight => 'Hell';
   @override
-  String get labelDark => 'Dark';
+  String get labelDark => 'Dunkel';
   @override
-  String get labelSimultaneousDownloads => 'Simultaneous Downloads';
+  String get labelSimultaneousDownloads => 'Gleichzeitige Downloads';
   @override
-  String get labelSimultaneousDownloadsDescription => 'Define how many downloads can happen at the same time';
+  String get labelSimultaneousDownloadsDescription => 'Definiere wieviele Downloads gleichzeitig ablaufen';
   @override
-  String get labelItems => 'Items';
+  String get labelItems => 'Einträge';
   @override
-  String get labelInstantDownloadFormat => 'Instant Download';
+  String get labelInstantDownloadFormat => 'Sofortiger Download';
   @override
   String get labelInstantDownloadFormatDescription => 'Change the audio format for instant downloads';
   @override
@@ -609,11 +609,11 @@ class LanguageDe extends Languages {
   @override
   String get labelInstant => 'Instant';
   @override
-  String get labelCurrentQuality => 'Current Quality';
+  String get labelCurrentQuality => 'Aktuelle Qualität';
   @override
-  String get labelFastStreamingOptions => 'Fast Streaming Options';
+  String get labelFastStreamingOptions => 'Fast Streaming Optionen';
   @override
-  String get labelStreamingOptions => 'Streaming Options';
+  String get labelStreamingOptions => 'Streaming Optionen';
   @override
   String get labelComments => 'Comments';
   @override
@@ -629,27 +629,27 @@ class LanguageDe extends Languages {
   @override
   String get labelPlayNow => 'Play Now';
   @override
-  String get labelLoadingPlaylist => 'Loading Playlist';
+  String get labelLoadingPlaylist => 'Lade Playlist';
   @override
-  String get labelPlaylistReachedTheEnd => 'Playlist reached the end';
+  String get labelPlaylistReachedTheEnd => 'Ende der Playlist';
   @override
   String get labelLiked => 'Liked';
   @override
   String get labelLike => 'Like';
   @override
-  String get labelVideoRemovedFromFavorites => 'Video removed from favorites';
+  String get labelVideoRemovedFromFavorites => 'Video aus Favoriten entfernt';
   @override
-  String get labelVideoAddedToFavorites => 'Video added to favorites';
+  String get labelVideoAddedToFavorites => 'Video zu Favoriten hinzugefügt';
   @override
   String get labelPopupMode => 'Popup Mode';
   @override
-  String get labelDownloaded => 'Downloaded';
+  String get labelDownloaded => 'Heruntergeladen';
   @override
-  String get labelShowPlaylist => 'Show Playlist';
+  String get labelShowPlaylist => 'Zeige Playlist';
   @override
-  String get labelCreatePlaylist => 'Create Playlist';
+  String get labelCreatePlaylist => 'Erstelle Playlist';
   @override
-  String get labelAddVideoToPlaylist => 'Add video to playlist';
+  String get labelAddVideoToPlaylist => 'Füge video zur Playlist hinzu';
   @override
   String get labelBackupDescription => 'Backup all of your local data into a single file that can be used to restore later';
   @override
@@ -705,15 +705,15 @@ class LanguageDe extends Languages {
   @override
   String get labelCreateVideoPlaylist => 'Create Video Playlist';
   @override
-  String get labelSearchFilters => 'Search Filters';
+  String get labelSearchFilters => 'Suchfilter';
   @override
-  String get labelAddToPlaylistDescription => 'Add to existing or new playlist';
+  String get labelAddToPlaylistDescription => 'Zu bestehender Playlist hinzufügen';
   @override
-  String get labelShareSong => 'Share Song';
+  String get labelShareSong => 'Song teilen';
   @override
-  String get labelShareSongDescription => 'Share with friends or other platforms';
+  String get labelShareSongDescription => 'Mit Freunden oder Platform teilen';
   @override
-  String get labelEditTagsDescription => 'Open ID3 tags and artwork editor';
+  String get labelEditTagsDescription => 'ID3 tags und artwork editor öffnen';
   @override
   String get labelContains => 'Contains';
 }
